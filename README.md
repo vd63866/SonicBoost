@@ -17,18 +17,18 @@ Currently implemented:
 - System-wide master volume control
 - Software volume amplification up to 125%
 - Mute and unmute controls
-- Reset volume to 100%
-- Automatic volume status refresh
-- Minimal dark desktop interface
+- 10-band graphic equalizer (31 Hz–16 kHz)
+- Flat, Bass Boost, Treble Boost and Vocal presets
+- PipeWire filter-chain audio processing
+- Minimal dark PySide6 desktop interface
 
 Planned features:
 
-- 10-band graphic equalizer
-- Bass and treble enhancement
-- Audio presets
+- Live equalizer updates without restarting PipeWire
 - Compressor and limiter
 - Real-time audio visualization
 - Audio device selection
+- Custom preset saving
 
 ## 🛠️ Technology Stack
 
